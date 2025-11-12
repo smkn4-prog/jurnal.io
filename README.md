@@ -1,4 +1,3 @@
-```markdown
 # Jurnal Digital 7 Kebiasaan Anak Indonesia Hebat (Starter Kit)
 
 Deskripsi singkat
@@ -46,6 +45,3 @@ Roadmap singkat (saran langkah selanjutnya)
 5. Deployment (Heroku/Vercel + managed DB)
 
 Kontak
-Jika Anda ingin saya push ini ke GitHub, buat repo dan beri akses atau beri tahu nama repo, saya bisa bantu buat branch dan push.
-```
-# jurnal.io
